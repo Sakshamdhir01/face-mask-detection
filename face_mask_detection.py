@@ -1,3 +1,6 @@
+# STEP 1: Install required libraries (run once in terminal)
+# pip install tensorflow scikit-learn matplotlib seaborn pillow numpy opencv-python
+
 
 import os
 import numpy as np
@@ -20,8 +23,8 @@ print("TensorFlow version:", tf.__version__)
 print("GPU Available:", tf.config.list_physical_devices('GPU'))
 
 
-
-
+# STEP 2: CONFIGURATION — Update DATA_DIR to your dataset path
+# UPDATE THIS PATH to where you extracted the dataset
 DATA_DIR = "data/face-mask-dataset"   
 
 IMG_SIZE   = (64, 64)  
