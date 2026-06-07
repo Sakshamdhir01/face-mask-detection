@@ -13,7 +13,7 @@ This project was built as part of a Machine Learning course assignment (Phase II
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** [Face Mask Dataset — Kaggle (omkargurav)](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 - **Total Images:** 7,553
@@ -75,7 +75,7 @@ face-mask-project/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 ```bash
@@ -106,7 +106,7 @@ data/
 
 ---
 
-## ▶ How to Run
+## > How to Run
 
 ```bash
 python face_mask_detection.py
