@@ -4,12 +4,12 @@ A deep learning project that detects whether a person is wearing a face mask or 
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 This project was built as part of a Machine Learning course assignment (Phase II). It trains two image classification models on a dataset of 7,553 face images to classify them into two categories:
 
-- ✅ **with_mask** — person wearing a face mask
-- ❌ **without_mask** — person not wearing a face mask
+-  **with_mask** — person wearing a face mask
+-  **without_mask** — person not wearing a face mask
 
 ---
 
@@ -22,7 +22,7 @@ This project was built as part of a Machine Learning course assignment (Phase II
 
 ---
 
-## 🧠 Models
+##  Models
 
 ### 1. Custom CNN
 Built from scratch with 3 convolutional blocks:
@@ -37,7 +37,7 @@ Built from scratch with 3 convolutional blocks:
 
 ---
 
-## 📈 Results
+##  Results
 
 | Model | Test Accuracy | Test Loss |
 |-------|:-------------:|:---------:|
@@ -48,7 +48,7 @@ Both models achieved **94%+ accuracy** on the test set.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 face-mask-project/
@@ -106,7 +106,7 @@ data/
 
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 
 ```bash
 python face_mask_detection.py
@@ -123,7 +123,7 @@ The script will automatically:
 
 ---
 
-## 📦 Output Files
+##  Output Files
 
 | File | Description |
 |------|-------------|
@@ -139,7 +139,7 @@ The script will automatically:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.11
 - TensorFlow 2.21
@@ -152,7 +152,10 @@ The script will automatically:
 
 ---
 
-## 👨‍💻 Author
+## Done by
 
 **Saksham**
-Machine Learning Assignment — Phase II
+
+## Supervision
+
+**Prof. Raja Hashim Ali**
